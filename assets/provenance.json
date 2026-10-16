@@ -1,0 +1,37 @@
+{
+  "source": "AI Evaluation Test.pdf",
+  "page": 1,
+  "description": "Tag-only crops from the three supplied reference photographs, not learned from evaluation labels. Coordinates refer to embedded images in PDF order.",
+  "crops": [
+    {
+      "file": "tag-0.png",
+      "embedded_image_index": 0,
+      "xyxy": [
+        112,
+        75,
+        151,
+        100
+      ]
+    },
+    {
+      "file": "tag-1.png",
+      "embedded_image_index": 1,
+      "xyxy": [
+        88,
+        97,
+        109,
+        112
+      ]
+    },
+    {
+      "file": "tag-2.png",
+      "embedded_image_index": 2,
+      "xyxy": [
+        48,
+        109,
+        70,
+        122
+      ]
+    }
+  ]
+}
